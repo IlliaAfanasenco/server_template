@@ -1,1 +1,1 @@
-# serverTemplate
+# server_template
